@@ -237,6 +237,39 @@ flutter test --coverage
 lcov --list coverage/lcov.info
 ```
 
+## 🌐 Deployment
+
+This project is automatically deployed to GitHub Pages using GitHub Actions.
+
+### Live Demo
+
+Visit the live application: [https://samuelodukoya.github.io/unfold_ai_assessment/](https://samuelodukoya.github.io/unfold_ai_assessment/)
+
+### Manual Deployment
+
+To deploy manually:
+
+```bash
+# Build for web with correct base href
+flutter build web --release --base-href "/unfold_ai_assessment/"
+
+# The build output will be in build/web/
+# Deploy this folder to your hosting service
+```
+
+### GitHub Pages Setup
+
+1. Push your code to GitHub
+2. Enable GitHub Pages in repository Settings → Pages
+3. GitHub Actions will automatically build and deploy on every push to main
+4. The workflow file is located at `.github/workflows/deploy.yml`
+
+### Alternative Hosting Options
+
+- **Vercel**: Connect GitHub repo for auto-deploy
+- **Netlify**: Drag-and-drop `build/web` folder
+- **Firebase Hosting**: `firebase deploy`
+
 ## 📝 Future Enhancements
 
 See [TRADEOFFS.md](./TRADEOFFS.md) for detailed discussion of features that were prioritized or deferred.
@@ -273,6 +306,8 @@ This project is created as a technical assessment for Unfold AI.
 
 ---
 
-**Live Demo**: [Your deployed URL here]
-**Screen Recording**: [Link to 2-minute demo video]
-**Repository**: [[GitHub link]](https://github.com/samuelodukoya/unfold_ai_assessment)
+**Live Demo**: [https://samuelodukoya.github.io/unfold_ai_assessment/](https://samuelodukoya.github.io/unfold_ai_assessment/)  
+**Screen Recording**: [Link to 2-minute demo video - Coming soon]  
+**Repository**: [https://github.com/samuelodukoya/unfold_ai_assessment](https://github.com/samuelodukoya/unfold_ai_assessment)
+
+Built with ❤️ using Flutter
