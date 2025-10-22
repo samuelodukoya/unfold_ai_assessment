@@ -1,42 +1,46 @@
-# Unfold Biometrics Dashboard
+# Biometrics Dashboard
 
-An interactive Flutter Web application for visualizing health and biometric data from wearable devices. This project demonstrates smooth time-series chart interactions, intelligent data handling, and performance optimization techniques.
+A Flutter web application that visualizes biometric data from wearable devices. Built as a technical assessment for Unfold AI, this project demonstrates interactive data visualization, performance optimization, and production-ready Flutter development.
 
-## 🎯 Project Overview
+## Overview
 
-This dashboard provides an intuitive interface for tracking three key health metrics:
+This dashboard tracks three key health metrics:
 
-- **HRV (Heart Rate Variability)** - A key indicator of cardiovascular health and stress
-- **RHR (Resting Heart Rate)** - Baseline heart rate measurement
+- **HRV (Heart Rate Variability)** - Cardiovascular health and stress indicator
+- **RHR (Resting Heart Rate)** - Baseline heart rate measurement  
 - **Daily Steps** - Physical activity tracking
 
-The application features synchronized charts, journal annotations, and intelligent data handling with simulated real-world conditions (network latency, failures, and large datasets).
+Features synchronized charts, journal annotations, and handles real-world data conditions including network latency, failures, and large datasets.
 
-## ✨ Features
+## Features
 
-### Core Functionality
+### Charts & Interactions
 
-- ✅ **Three Synchronized Charts** - HRV, RHR, and Steps with shared interactions
-- ✅ **Shared Tooltip/Crosshair** - Hover or tap on one chart to highlight the same date across all three
-- ✅ **Range Controls** - Switch between 7-day, 30-day, and 90-day views
-- ✅ **Journal Annotations** - Visual markers for mood entries with tap-to-view details
-- ✅ **Interactive Pan/Zoom** - Explore data ranges smoothly
-- ✅ **Dark Mode Support** - Full theme toggle with smooth transitions
+- Three synchronized time-series charts (HRV, RHR, Steps)
+- Shared tooltips - tap one chart to highlight same date across all
+- Range controls (7d/30d/90d)
+- Journal annotations with mood tracking
+- Touch and mouse interactions
+
+### Performance
+
+- LTTB decimation for large datasets (10k+ points)
+- 7-day rolling mean ±1σ statistical bands
+- Maintains 60 FPS with smooth animations
+- Responsive layouts (mobile to desktop)
 
 ### State Management
 
-- ✅ **Loading State** - Skeleton placeholders during data fetch
-- ✅ **Error State** - Clear error messages with retry functionality
-- ✅ **Empty State** - Graceful handling of missing data
+- Loading skeletons
+- Error handling with retry
+- Empty states
+- Simulated network conditions (700-1200ms latency, 10% failure rate)
 
-### Performance Optimization
+### Design
 
-- ✅ **Large Dataset Toggle** - Test with 10,000+ data points
-- ✅ **LTTB Decimation** - Intelligent downsampling for large datasets (preserves visual fidelity)
-- ✅ **Statistical Bands** - 7-day rolling mean ±1σ for HRV trend analysis
-- ✅ **Responsive Design** - Optimized layouts for mobile (375px+), tablet, and desktop
-- ✅ **Adaptive Layouts** - Controls and stats stack vertically on narrow screens
-- ✅ **Simulated Network Conditions** - 700-1200ms latency with ~10% failure rate
+- Dark/light theme toggle
+- Material 3 design system
+- Adaptive layouts for different screen sizes
 
 ## 🚀 Getting Started
 
@@ -243,7 +247,7 @@ This project is automatically deployed to GitHub Pages using GitHub Actions.
 
 ### Live Demo
 
-Visit the live application: [https://samuelodukoya.github.io/unfold_ai_assessment/](https://samuelodukoya.github.io/unfold_ai_assessment/)
+Visit the live application: [https://unfoldaiassessement.netlify.app/](https://unfoldaiassessement.netlify.app/)
 
 ### Manual Deployment
 
@@ -251,7 +255,7 @@ To deploy manually:
 
 ```bash
 # Build for web with correct base href
-flutter build web --release --base-href "/unfold_ai_assessment/"
+flutter build web --release
 
 # The build output will be in build/web/
 # Deploy this folder to your hosting service
@@ -306,8 +310,6 @@ This project is created as a technical assessment for Unfold AI.
 
 ---
 
-**Live Demo**: [https://samuelodukoya.github.io/unfold_ai_assessment/](https://samuelodukoya.github.io/unfold_ai_assessment/)  
+**Live Demo**: [https://unfoldaiassessement.netlify.app/](https://unfoldaiassessement.netlify.app/)
 **Screen Recording**: [Link to 2-minute demo video - Coming soon]  
 **Repository**: [https://github.com/samuelodukoya/unfold_ai_assessment](https://github.com/samuelodukoya/unfold_ai_assessment)
-
-Built with ❤️ using Flutter
