@@ -1,0 +1,632 @@
+[
+  {
+    "date": "2025-07-24",
+    "hrv": 58.2,
+    "rhr": 61,
+    "steps": 7421,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-07-25",
+    "hrv": 55.1,
+    "rhr": 63,
+    "steps": 6120,
+    "sleepScore": 72
+  },
+  {
+    "date": "2025-07-26",
+    "hrv": 62.4,
+    "rhr": 59,
+    "steps": 8934,
+    "sleepScore": 85
+  },
+  {
+    "date": "2025-07-27",
+    "hrv": 60.8,
+    "rhr": 60,
+    "steps": 7654,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-07-28",
+    "hrv": 57.3,
+    "rhr": 62,
+    "steps": 5890,
+    "sleepScore": 74
+  },
+  {
+    "date": "2025-07-29",
+    "hrv": 63.1,
+    "rhr": 58,
+    "steps": 9234,
+    "sleepScore": 88
+  },
+  {
+    "date": "2025-07-30",
+    "hrv": 61.5,
+    "rhr": 59,
+    "steps": 8120,
+    "sleepScore": 82
+  },
+  {
+    "date": "2025-07-31",
+    "hrv": 59.7,
+    "rhr": 61,
+    "steps": 7234,
+    "sleepScore": 79
+  },
+  {
+    "date": "2025-08-01",
+    "hrv": 56.2,
+    "rhr": 64,
+    "steps": 6543,
+    "sleepScore": 71
+  },
+  {
+    "date": "2025-08-02",
+    "hrv": 54.8,
+    "rhr": 65,
+    "steps": 5234,
+    "sleepScore": 68
+  },
+  {
+    "date": "2025-08-03",
+    "hrv": 58.9,
+    "rhr": 62,
+    "steps": 7890,
+    "sleepScore": 76
+  },
+  {
+    "date": "2025-08-04",
+    "hrv": 61.3,
+    "rhr": 60,
+    "steps": 8567,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-08-05",
+    "hrv": 62.7,
+    "rhr": 59,
+    "steps": 9012,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-08-06",
+    "hrv": 60.4,
+    "rhr": 61,
+    "steps": 7823,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-08-07",
+    "hrv": 57.8,
+    "rhr": 63,
+    "steps": 6745,
+    "sleepScore": 73
+  },
+  {
+    "date": "2025-08-08",
+    "hrv": 59.6,
+    "rhr": 62,
+    "steps": 7456,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-08-09",
+    "hrv": 61.9,
+    "rhr": 60,
+    "steps": 8234,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-08-10",
+    "hrv": 63.5,
+    "rhr": 58,
+    "steps": 9456,
+    "sleepScore": 87
+  },
+  {
+    "date": "2025-08-11",
+    "hrv": 62.1,
+    "rhr": 59,
+    "steps": 8890,
+    "sleepScore": 85
+  },
+  {
+    "date": "2025-08-12",
+    "hrv": 64.2,
+    "rhr": 57,
+    "steps": 9678,
+    "sleepScore": 89
+  },
+  {
+    "date": "2025-08-13",
+    "hrv": 61.7,
+    "rhr": 60,
+    "steps": 8123,
+    "sleepScore": 82
+  },
+  {
+    "date": "2025-08-14",
+    "hrv": 59.3,
+    "rhr": 62,
+    "steps": 7345,
+    "sleepScore": 77
+  },
+  {
+    "date": "2025-08-15",
+    "hrv": 58.1,
+    "rhr": 63,
+    "steps": 6789,
+    "sleepScore": 75
+  },
+  {
+    "date": "2025-08-16",
+    "hrv": 60.5,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-08-17",
+    "hrv": 62.8,
+    "rhr": 59,
+    "steps": 8567,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-08-18",
+    "hrv": 61.4,
+    "rhr": 60,
+    "steps": 8234,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-08-19",
+    "hrv": 59.7,
+    "rhr": 62,
+    "steps": 7456,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-08-20",
+    "hrv": 57.9,
+    "rhr": 63,
+    "steps": 6890,
+    "sleepScore": 74
+  },
+  {
+    "date": "2025-08-21",
+    "hrv": 60.2,
+    "rhr": 61,
+    "steps": 7678,
+    "sleepScore": 79
+  },
+  {
+    "date": "2025-08-22",
+    "hrv": 62.6,
+    "rhr": 59,
+    "steps": 8901,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-08-23",
+    "hrv": 63.9,
+    "rhr": 58,
+    "steps": 9234,
+    "sleepScore": 86
+  },
+  {
+    "date": "2025-08-24",
+    "hrv": 61.8,
+    "rhr": 60,
+    "steps": 8456,
+    "sleepScore": 82
+  },
+  {
+    "date": "2025-08-25",
+    "hrv": 59.4,
+    "rhr": 62,
+    "steps": 7234,
+    "sleepScore": 77
+  },
+  {
+    "date": "2025-08-26",
+    "hrv": 58.6,
+    "rhr": 63,
+    "steps": 6678,
+    "sleepScore": 75
+  },
+  {
+    "date": "2025-08-27",
+    "hrv": 60.9,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-08-28",
+    "hrv": 62.3,
+    "rhr": 59,
+    "steps": 8567,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-08-29",
+    "hrv": 63.7,
+    "rhr": 58,
+    "steps": 9123,
+    "sleepScore": 86
+  },
+  {
+    "date": "2025-08-30",
+    "hrv": 61.5,
+    "rhr": 60,
+    "steps": 8234,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-08-31",
+    "hrv": 59.8,
+    "rhr": 62,
+    "steps": 7456,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-09-01",
+    "hrv": 58.4,
+    "rhr": 63,
+    "steps": 6789,
+    "sleepScore": 75
+  },
+  {
+    "date": "2025-09-02",
+    "hrv": 60.7,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-09-03",
+    "hrv": 62.9,
+    "rhr": 59,
+    "steps": 8678,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-09-04",
+    "hrv": 64.1,
+    "rhr": 58,
+    "steps": 9345,
+    "sleepScore": 87
+  },
+  {
+    "date": "2025-09-05",
+    "hrv": 62.4,
+    "rhr": 59,
+    "steps": 8890,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-09-06",
+    "hrv": 60.6,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-09-07",
+    "hrv": 59.1,
+    "rhr": 62,
+    "steps": 7123,
+    "sleepScore": 77
+  },
+  {
+    "date": "2025-09-08",
+    "hrv": 61.2,
+    "rhr": 60,
+    "steps": 8234,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-09-09",
+    "hrv": 63.4,
+    "rhr": 58,
+    "steps": 9012,
+    "sleepScore": 85
+  },
+  {
+    "date": "2025-09-10",
+    "hrv": 62.8,
+    "rhr": 59,
+    "steps": 8678,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-09-11",
+    "hrv": 61.3,
+    "rhr": 60,
+    "steps": 8123,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-09-12",
+    "hrv": 59.6,
+    "rhr": 62,
+    "steps": 7345,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-09-13",
+    "hrv": 58.7,
+    "rhr": 63,
+    "steps": 6890,
+    "sleepScore": 76
+  },
+  {
+    "date": "2025-09-14",
+    "hrv": 60.4,
+    "rhr": 61,
+    "steps": 7678,
+    "sleepScore": 79
+  },
+  {
+    "date": "2025-09-15",
+    "hrv": 62.1,
+    "rhr": 60,
+    "steps": 8456,
+    "sleepScore": 82
+  },
+  {
+    "date": "2025-09-16",
+    "hrv": 63.6,
+    "rhr": 58,
+    "steps": 9234,
+    "sleepScore": 86
+  },
+  {
+    "date": "2025-09-17",
+    "hrv": 61.9,
+    "rhr": 59,
+    "steps": 8567,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-09-18",
+    "hrv": 60.2,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-09-19",
+    "hrv": 58.8,
+    "rhr": 63,
+    "steps": 7123,
+    "sleepScore": 76
+  },
+  {
+    "date": "2025-09-20",
+    "hrv": 60.5,
+    "rhr": 61,
+    "steps": 7789,
+    "sleepScore": 79
+  },
+  {
+    "date": "2025-09-21",
+    "hrv": 62.7,
+    "rhr": 59,
+    "steps": 8678,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-09-22",
+    "hrv": 64.3,
+    "rhr": 57,
+    "steps": 9456,
+    "sleepScore": 88
+  },
+  {
+    "date": "2025-09-23",
+    "hrv": 62.9,
+    "rhr": 59,
+    "steps": 8890,
+    "sleepScore": 85
+  },
+  {
+    "date": "2025-09-24",
+    "hrv": 61.4,
+    "rhr": 60,
+    "steps": 8123,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-09-25",
+    "hrv": 59.7,
+    "rhr": 62,
+    "steps": 7345,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-09-26",
+    "hrv": 58.3,
+    "rhr": 63,
+    "steps": 6789,
+    "sleepScore": 75
+  },
+  {
+    "date": "2025-09-27",
+    "hrv": 60.1,
+    "rhr": 61,
+    "steps": 7567,
+    "sleepScore": 79
+  },
+  {
+    "date": "2025-09-28",
+    "hrv": 62.5,
+    "rhr": 59,
+    "steps": 8456,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-09-29",
+    "hrv": 63.8,
+    "rhr": 58,
+    "steps": 9123,
+    "sleepScore": 86
+  },
+  {
+    "date": "2025-09-30",
+    "hrv": 62.2,
+    "rhr": 59,
+    "steps": 8678,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-10-01",
+    "hrv": 60.6,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-10-02",
+    "hrv": 59.2,
+    "rhr": 62,
+    "steps": 7234,
+    "sleepScore": 77
+  },
+  {
+    "date": "2025-10-03",
+    "hrv": 61.1,
+    "rhr": 60,
+    "steps": 8012,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-10-04",
+    "hrv": 63.3,
+    "rhr": 58,
+    "steps": 8890,
+    "sleepScore": 85
+  },
+  {
+    "date": "2025-10-05",
+    "hrv": 62.6,
+    "rhr": 59,
+    "steps": 8567,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-10-06",
+    "hrv": 61.2,
+    "rhr": 60,
+    "steps": 8123,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-10-07",
+    "hrv": 59.5,
+    "rhr": 62,
+    "steps": 7456,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-10-08",
+    "hrv": 58.9,
+    "rhr": 63,
+    "steps": 6890,
+    "sleepScore": 76
+  },
+  {
+    "date": "2025-10-09",
+    "hrv": 60.3,
+    "rhr": 61,
+    "steps": 7678,
+    "sleepScore": 79
+  },
+  {
+    "date": "2025-10-10",
+    "hrv": 62.4,
+    "rhr": 59,
+    "steps": 8456,
+    "sleepScore": 82
+  },
+  {
+    "date": "2025-10-11",
+    "hrv": 63.9,
+    "rhr": 58,
+    "steps": 9234,
+    "sleepScore": 86
+  },
+  {
+    "date": "2025-10-12",
+    "hrv": 62.1,
+    "rhr": 59,
+    "steps": 8678,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-10-13",
+    "hrv": 60.7,
+    "rhr": 61,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-10-14",
+    "hrv": 59.3,
+    "rhr": 62,
+    "steps": 7234,
+    "sleepScore": 77
+  },
+  {
+    "date": "2025-10-15",
+    "hrv": 61.0,
+    "rhr": 60,
+    "steps": 7890,
+    "sleepScore": 80
+  },
+  {
+    "date": "2025-10-16",
+    "hrv": 62.8,
+    "rhr": 59,
+    "steps": 8567,
+    "sleepScore": 84
+  },
+  {
+    "date": "2025-10-17",
+    "hrv": 64.2,
+    "rhr": 57,
+    "steps": 9345,
+    "sleepScore": 87
+  },
+  {
+    "date": "2025-10-18",
+    "hrv": 62.5,
+    "rhr": 59,
+    "steps": 8890,
+    "sleepScore": 83
+  },
+  {
+    "date": "2025-10-19",
+    "hrv": 61.1,
+    "rhr": 60,
+    "steps": 8123,
+    "sleepScore": 81
+  },
+  {
+    "date": "2025-10-20",
+    "hrv": 59.8,
+    "rhr": 62,
+    "steps": 7456,
+    "sleepScore": 78
+  },
+  {
+    "date": "2025-10-21",
+    "hrv": 60.4,
+    "rhr": 61,
+    "steps": 7789,
+    "sleepScore": 79
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "date": "2025-08-02", "mood": 2, "note": "Bad sleep, feeling tired" },
+  { "date": "2025-08-12", "mood": 5, "note": "Great run this morning!" },
+  { "date": "2025-08-23", "mood": 4, "note": "Productive day at work" },
+  { "date": "2025-09-04", "mood": 5, "note": "Personal best on my run!" },
+  { "date": "2025-09-15", "mood": 3, "note": "Stressed about deadlines" },
+  { "date": "2025-09-22", "mood": 5, "note": "Amazing workout session" },
+  {
+    "date": "2025-10-01",
+    "mood": 3,
+    "note": "Feeling a bit under the weather"
+  },
+  { "date": "2025-10-11", "mood": 4, "note": "Good recovery day" },
+  { "date": "2025-10-17", "mood": 5, "note": "Crushed my fitness goals!" }
+]

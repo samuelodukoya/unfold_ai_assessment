@@ -50,7 +50,7 @@ The application features synchronized charts, journal annotations, and intellige
 
 1. **Clone the repository**
 
-   git clone <https://github.com/yourusername/unfold_assessment.git>
+   git clone <https://github.com/samuelodukoya/unfold_ai_assessment>
    cd unfold_assessment
 
 2. **Install dependencies**
@@ -237,34 +237,6 @@ flutter test --coverage
 lcov --list coverage/lcov.info
 ```
 
-## 🔄 State Flow
-
-```
-User Action → DashboardScreen State Update → Filter Data → Rebuild Charts
-                                          ↓
-                                    Update Selected Date
-                                          ↓
-                                  All Charts Synchronized
-```
-
-## 🌐 Deployment
-
-### GitHub Pages (Recommended)
-
-```bash
-# Build for web with base href
-flutter build web --base-href "/unfold_assessment/"
-
-# Deploy to gh-pages branch
-# (Can be automated with GitHub Actions)
-```
-
-### Other Options
-
-- **Vercel**: Connect GitHub repo for auto-deploy
-- **Netlify**: Drag-and-drop `build/web` folder
-- **Firebase Hosting**: `firebase deploy`
-
 ## 📝 Future Enhancements
 
 See [TRADEOFFS.md](./TRADEOFFS.md) for detailed discussion of features that were prioritized or deferred.
@@ -289,22 +261,6 @@ See [TRADEOFFS.md](./TRADEOFFS.md) for detailed discussion of features that were
 - [ ] Integration with real wearable device APIs
 - [ ] Social features (share progress, challenges)
 
-## 🤖 AI-Assisted Development
-
-This project leveraged GitHub Copilot and AI tools for:
-
-- **Boilerplate generation**: Chart widgets, model classes, and state management setup
-- **Best practices**: Flutter widget patterns and performance optimization suggestions
-- **Documentation**: README structure and inline code comments
-- **Problem-solving**: Debug assistance for chart synchronization logic
-
-**Human oversight ensured**:
-
-- Architectural decisions aligned with project requirements
-- Code quality, readability, and maintainability standards
-- Proper error handling and edge case coverage
-- Performance considerations and optimization strategies
-
 ## 📄 License
 
 This project is created as a technical assessment for Unfold AI.
@@ -317,9 +273,6 @@ This project is created as a technical assessment for Unfold AI.
 
 ---
 
-**Live Demo**: [Your deployed URL here]  
-**Screen Recording**: [Link to 2-minute demo video]  
-**Repository**: [GitHub link]
-
-Built with ❤️ using Flutter
-# unfold_ai_assessment
+**Live Demo**: [Your deployed URL here]
+**Screen Recording**: [Link to 2-minute demo video]
+**Repository**: [[GitHub link]](https://github.com/samuelodukoya/unfold_ai_assessment)
