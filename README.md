@@ -311,5 +311,5 @@ This project is created as a technical assessment for Unfold AI.
 ---
 
 **Live Demo**: [https://unfoldaiassessement.netlify.app/](https://unfoldaiassessement.netlify.app/)
-**Screen Recording**: [Link to 2-minute demo video - Coming soon]  
+**Screen Recording**: [[Link to the 2-minute demo video]  ](https://drive.google.com/file/d/1EB3wcl37X_Zm5vDH2XuhoY6hGrsWO-yz/view?usp=sharing)
 **Repository**: [https://github.com/samuelodukoya/unfold_ai_assessment](https://github.com/samuelodukoya/unfold_ai_assessment)
